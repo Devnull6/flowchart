@@ -1,0 +1,100 @@
+<mxfile host="www.draw.io" modified="2020-01-10T01:46:45.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.94 Safari/537.36" etag="BNDzh4UY7SacZ0RT38nN" version="12.5.1" type="github">
+  <diagram id="E4fQs4bx1uYAzTjZzPIk" name="Page-1">
+    <mxGraphModel dx="1880" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvtQpVOupGEDmtfl6RTp-1" target="HvtQpVOupGEDmtfl6RTp-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-11" value="License 认证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.3617" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <object label="" id="HvtQpVOupGEDmtfl6RTp-16">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvtQpVOupGEDmtfl6RTp-1" target="HvtQpVOupGEDmtfl6RTp-2" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="343" y="219"/>
+                <mxPoint x="343" y="219"/>
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-17" value="Multi RDP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-16" vertex="1" connectable="0">
+          <mxGeometry x="0.1111" y="-16" relative="1" as="geometry">
+            <mxPoint x="13" y="-16" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-1" value="new node01 server 2016：eggplant" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="313" y="89" width="60" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvtQpVOupGEDmtfl6RTp-2" target="HvtQpVOupGEDmtfl6RTp-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-12" value="License 认证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.3854" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-2" value="new&amp;nbsp; node02 serever 2016" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="313" y="259" width="60" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HvtQpVOupGEDmtfl6RTp-13" target="HvtQpVOupGEDmtfl6RTp-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="183" y="201" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-6" value="Multi RDP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.3498" y="4" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-4" value="node03 server 2012：License server（10.72.49.128）" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="563" y="169" width="60" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvtQpVOupGEDmtfl6RTp-13" target="HvtQpVOupGEDmtfl6RTp-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="289"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-15" value="Multi RDP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.4795" y="37" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HvtQpVOupGEDmtfl6RTp-13" target="HvtQpVOupGEDmtfl6RTp-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="170.5" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="30" y="171"/>
+              <mxPoint x="30" y="441"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-21" value="Single RDP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.1472" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-13" value="个人PC：aggplant" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="83" y="139" width="63" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvtQpVOupGEDmtfl6RTp-18" target="HvtQpVOupGEDmtfl6RTp-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-23" value="License 认证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.5579" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-18" value="windows 10: 10.72.49.129" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="313" y="409" width="60" height="63" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
