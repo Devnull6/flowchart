@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-10T01:46:45.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.94 Safari/537.36" etag="BNDzh4UY7SacZ0RT38nN" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-10T09:04:25.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.94 Safari/537.36" etag="6FZxJY1F5TrpW47nSBBE" version="12.5.1" type="github">
   <diagram id="E4fQs4bx1uYAzTjZzPIk" name="Page-1">
     <mxGraphModel dx="1880" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,8 +27,8 @@
             <mxPoint x="13" y="-16" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HvtQpVOupGEDmtfl6RTp-1" value="new node01 server 2016：eggplant" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="313" y="89" width="60" height="63" as="geometry"/>
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-1" value="new node01 server 2016：eggplant 10.72.49.133" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="313" y="40" width="60" height="63" as="geometry"/>
         </mxCell>
         <mxCell id="HvtQpVOupGEDmtfl6RTp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvtQpVOupGEDmtfl6RTp-2" target="HvtQpVOupGEDmtfl6RTp-4" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -38,12 +38,15 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HvtQpVOupGEDmtfl6RTp-2" value="new&amp;nbsp; node02 serever 2016" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="HvtQpVOupGEDmtfl6RTp-2" value="new&amp;nbsp; node02 serever 2016：10.72.49.134" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instance;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="313" y="259" width="60" height="63" as="geometry"/>
         </mxCell>
         <mxCell id="HvtQpVOupGEDmtfl6RTp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HvtQpVOupGEDmtfl6RTp-13" target="HvtQpVOupGEDmtfl6RTp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="183" y="201" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="146" y="60"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HvtQpVOupGEDmtfl6RTp-6" value="Multi RDP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HvtQpVOupGEDmtfl6RTp-5" vertex="1" connectable="0">
